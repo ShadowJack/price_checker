@@ -1,0 +1,27 @@
+.row.full_width
+  .medium-8.medium-centered.column
+    h1 Listing products
+
+    table
+      thead
+        tr
+          th Url
+          th Aim price
+          th Description
+          th
+          th
+          th
+
+      tbody
+        - @products.each do |product|
+          tr
+            td = product.url
+            td = product.aim_price
+            td = product.description
+            td = link_to 'Show', product
+            td = link_to 'Edit', edit_product_path(product)
+            td = link_to 'Destroy', product, data: {:confirm => 'Are you sure?'}, :method => :delete
+
+    br
+
+    = link_to 'New Product', new_product_path

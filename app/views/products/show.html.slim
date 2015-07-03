@@ -1,0 +1,17 @@
+.row.full_width
+  .medium-8.medium-centered.column
+    p#notice =notice
+
+    p
+      strong Url:
+      = @product.url
+    p
+      strong Aim price:
+      = @product.aim_price
+    p
+      strong Description:
+      = @product.description
+
+    = link_to 'Edit', edit_product_path(@product)
+    '|
+    = link_to 'Back', products_path

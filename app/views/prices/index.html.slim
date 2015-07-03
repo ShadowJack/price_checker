@@ -1,0 +1,21 @@
+h1 Listing prices
+
+table
+  thead
+    tr
+      th Price
+      th
+      th
+      th
+
+  tbody
+    - @prices.each do |price|
+      tr
+        td = price.price
+        td = link_to 'Show', price
+        td = link_to 'Edit', edit_price_path(price)
+        td = link_to 'Destroy', price, data: {:confirm => 'Are you sure?'}, :method => :delete
+
+br
+
+= link_to 'New Price', new_price_path

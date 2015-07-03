@@ -1,0 +1,8 @@
+= simple_form_for(@price) do |f|
+  = f.error_notification
+
+  .form-inputs
+    = f.input :price
+
+  .form-actions
+    = f.button :submit

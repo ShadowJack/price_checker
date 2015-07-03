@@ -1,0 +1,10 @@
+.row.full_width
+  .medium-8.medium-centered.column
+    h1 Editing product
+
+    == render 'form'
+
+    = link_to 'Show', @product
+    '|
+    = link_to 'Back', products_path
+
