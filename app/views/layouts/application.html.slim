@@ -8,14 +8,7 @@ html lang="en"
       =content_for?(:title) ? yield(:title) : "foundation-rails"
     =stylesheet_link_tag    "application"
     =javascript_include_tag "vendor/modernizr"
-    =javascript_include_tag "application", 'data-turbolinks-track' => true
+    =javascript_include_tag "application"
     =csrf_meta_tags
   body
-    .row.full_width
-      .medium-4.medium-centered.column
-        #header
-          | Hello, my friend. You are on a price-tracker
-      .medium-1.column
-        -if user_signed_in?
-          = button_to 'Sign Out', destroy_user_session_path, method: :delete
     ==yield

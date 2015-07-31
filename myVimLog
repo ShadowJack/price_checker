@@ -1,0 +1,743 @@
+
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+finished sourcing $VIM/vimrc
+chdir(/Users/shadowjack)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+Searching for "autoload/pathogen.vim" in "/Users/shadowjack/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/pathogen.vim"
+chdir(/Users/shadowjack/.vim/autoload)
+fchdir() to previous dir
+line 5: sourcing "/Users/shadowjack/.vim/autoload/pathogen.vim"
+finished sourcing /Users/shadowjack/.vim/autoload/pathogen.vim
+continuing in /Users/shadowjack/.vimrc
+Searching for "colors/railscasts.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/colors/railscasts.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/colors/railscasts.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/colors/railscasts.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/colors/railscasts.vim"
+chdir(/Users/shadowjack/.vim/bundle/railscasts-theme/colors)
+fchdir() to previous dir
+line 38: sourcing "/Users/shadowjack/.vim/bundle/railscasts-theme/colors/railscasts.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/railscasts-theme/colors/railscasts.vim
+continuing in /Users/shadowjack/.vimrc
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 54: sourcing "/usr/share/vim/vim73/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/syntax/synload.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim73/syntax/synload.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim73/syntax/synload.vim"
+Searching for "colors/railscasts.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/colors/railscasts.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/colors/railscasts.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/colors/railscasts.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/colors/railscasts.vim"
+chdir(/Users/shadowjack/.vim/bundle/railscasts-theme/colors)
+fchdir() to previous dir
+line 19: sourcing "/Users/shadowjack/.vim/bundle/railscasts-theme/colors/railscasts.vim"
+Searching for "syntax/syncolor.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim73/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 8: sourcing "/usr/share/vim/vim73/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+continuing in /Users/shadowjack/.vim/bundle/railscasts-theme/colors/railscasts.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim73/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 10: sourcing "/usr/share/vim/vim73/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+continuing in /Users/shadowjack/.vim/bundle/railscasts-theme/colors/railscasts.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/syntax/syncolor.vim"
+Searching for "/Users/shadowjack/.vim/after/syntax/syncolor.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/railscasts-theme/colors/railscasts.vim
+continuing in /usr/share/vim/vim73/syntax/synload.vim
+finished sourcing /usr/share/vim/vim73/syntax/synload.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "filetype.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim73/filetype.vim"
+Searching for "ftdetect/*.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/ftdetect/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-ruby/ftdetect)
+fchdir() to previous dir
+line 2476: sourcing "/Users/shadowjack/.vim/bundle/vim-ruby/ftdetect/ruby.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/vim-ruby/ftdetect/ruby.vim
+continuing in /usr/share/vim/vim73/filetype.vim
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim73/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/ftdetect/*.vim"
+Searching for "/Users/shadowjack/.vim/after/ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/filetype.vim"
+Searching for "/Users/shadowjack/.vim/after/filetype.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syntax.vim
+continuing in /Users/shadowjack/.vimrc
+Searching for "filetype.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 64: sourcing "/usr/share/vim/vim73/filetype.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /Users/shadowjack/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/filetype.vim"
+Searching for "/Users/shadowjack/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/share/vim/vim73/ftplugin.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 64: sourcing "/usr/share/vim/vim73/ftplugin.vim"
+finished sourcing /usr/share/vim/vim73/ftplugin.vim
+continuing in /Users/shadowjack/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/ftplugin.vim"
+Searching for "/Users/shadowjack/.vim/after/ftplugin.vim"
+Searching for "indent.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+Searching for "/usr/share/vim/vim73/indent.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 64: sourcing "/usr/share/vim/vim73/indent.vim"
+finished sourcing /usr/share/vim/vim73/indent.vim
+continuing in /Users/shadowjack/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/indent.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/indent.vim"
+Searching for "/Users/shadowjack/.vim/after/indent.vim"
+finished sourcing $HOME/.vimrc
+Searching for "plugin/**/*.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/command-t/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/command-t/plugin/command-t.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/command-t/plugin/command-t.vim
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/nerdtree/plugin/NERD_tree.vim"
+Searching for "autoload/nerdtree.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/nerdtree.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/autoload/nerdtree.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/autoload/nerdtree.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/autoload)
+fchdir() to previous dir
+line 70: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/autoload/nerdtree.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/autoload/nerdtree.vim
+continuing in /Users/shadowjack/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+Searching for "lib/nerdtree/path.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/path.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/path.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/path.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 1: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/path.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/menu_controller.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/menu_controller.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/menu_controller.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 2: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/menu_item.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/menu_item.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/menu_item.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 3: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/key_map.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/key_map.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/key_map.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 4: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/bookmark.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/bookmark.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/bookmark.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 5: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/tree_file_node.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/tree_file_node.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/tree_file_node.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 6: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/tree_dir_node.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/tree_dir_node.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/tree_dir_node.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 7: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/opener.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/opener.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/opener.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/opener.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 8: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/opener.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/creator.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/creator.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/creator.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/creator.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 9: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/creator.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/flag_set.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/flag_set.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/flag_set.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 10: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/nerdtree.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/nerdtree.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/nerdtree.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 11: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/ui.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/ui.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/ui.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/ui.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 12: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/ui.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/event.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/event.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/event.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/event.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 13: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/event.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/notifier.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/lib/nerdtree/notifier.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/lib/nerdtree/notifier.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 14: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "autoload/nerdtree/ui_glue.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/nerdtree/ui_glue.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/autoload/nerdtree/ui_glue.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/autoload/nerdtree)
+fchdir() to previous dir
+line 145: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+continuing in /Users/shadowjack/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+Searching for "nerdtree_plugin/**/*.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/nerdtree_plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+continuing in function nerdtree#postSourceActions
+chdir(/Users/shadowjack/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/Users/shadowjack/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+continuing in function nerdtree#postSourceActions
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/nerdtree_plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/nerdtree_plugin/**/*.vim"
+Searching for "/usr/share/vim/vim73/nerdtree_plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/nerdtree_plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/after/nerdtree_plugin/**/*.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/tlib_vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/tlib_vim/plugin/02tlib.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/tlib_vim/plugin/02tlib.vim
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-bundler/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/vim-bundler/plugin/bundler.vim"
+Searching for "autoload/bundler.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/autoload/bundler.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/bundler.vim"
+Searching for "/usr/share/vim/vim73/autoload/bundler.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/autoload/bundler.vim"
+Searching for "/Users/shadowjack/.vim/after/autoload/bundler.vim"
+not found in 'runtimepath': "autoload/bundler.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/vim-bundler/plugin/bundler.vim
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-fugitive/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/vim-fugitive/plugin/fugitive.vim"
+Searching for "autoload/fugitive.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/autoload/fugitive.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/fugitive.vim"
+Searching for "/usr/share/vim/vim73/autoload/fugitive.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/autoload/fugitive.vim"
+Searching for "/Users/shadowjack/.vim/after/autoload/fugitive.vim"
+not found in 'runtimepath': "autoload/fugitive.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/vim-fugitive/plugin/fugitive.vim
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-rails/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/vim-rails/plugin/rails.vim"
+Searching for "plugin/projectionist.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/plugin/projectionist.vim"
+Searching for "/usr/share/vim/vimfiles/plugin/projectionist.vim"
+Searching for "/usr/share/vim/vim73/plugin/projectionist.vim"
+Searching for "/usr/share/vim/vimfiles/after/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/plugin/projectionist.vim"
+Searching for "/Users/shadowjack/.vim/after/plugin/projectionist.vim"
+not found in 'runtimepath': "plugin/projectionist.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/vim-rails/plugin/rails.vim
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-snipmate/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/vim-snipmate/plugin/snipMate.vim"
+Searching for "autoload/funcref.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/funcref.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/autoload/funcref.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/autoload/funcref.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/autoload/funcref.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/autoload/funcref.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload/funcref.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload)
+fchdir() to previous dir
+line 20: sourcing "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload/funcref.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload/funcref.vim
+continuing in /Users/shadowjack/.vim/bundle/vim-snipmate/plugin/snipMate.vim
+finished sourcing /Users/shadowjack/.vim/bundle/vim-snipmate/plugin/snipMate.vim
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-snippets/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/vim-snippets/plugin/vimsnippets.vim"
+Searching for "autoload/UltiSnips/bootstrap.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/autoload/UltiSnips/bootstrap.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/UltiSnips/bootstrap.vim"
+Searching for "/usr/share/vim/vim73/autoload/UltiSnips/bootstrap.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/after/autoload/UltiSnips/bootstrap.vim"
+not found in 'runtimepath': "autoload/UltiSnips/bootstrap.vim"
+Searching for "autoload/UltiSnips/bootstrap.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/autoload/UltiSnips/bootstrap.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/UltiSnips/bootstrap.vim"
+Searching for "/usr/share/vim/vim73/autoload/UltiSnips/bootstrap.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/autoload/UltiSnips/bootstrap.vim"
+Searching for "/Users/shadowjack/.vim/after/autoload/UltiSnips/bootstrap.vim"
+not found in 'runtimepath': "autoload/UltiSnips/bootstrap.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/vim-snippets/plugin/vimsnippets.vim
+Searching for "/usr/share/vim/vimfiles/plugin/**/*.vim"
+Searching for "/usr/share/vim/vim73/plugin/**/*.vim"
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim73/plugin/gzip.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim73/plugin/matchparen.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim73/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim73/plugin/spellfile.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim73/plugin/tohtml.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/zipPlugin.vim
+Searching for "/usr/share/vim/vimfiles/after/plugin/**/*.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/plugin/**/*.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-snipmate/after/plugin)
+fchdir() to previous dir
+sourcing "/Users/shadowjack/.vim/bundle/vim-snipmate/after/plugin/snipMate.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/vim-snipmate/after/plugin/snipMate.vim
+Searching for "/Users/shadowjack/.vim/after/plugin/**/*.vim"
+Reading viminfo file "/Users/shadowjack/.viminfo" info oldfiles
+Executing BufWinEnter Auto commands for "*"
+autocommand if s:can_diffoff(+expand('<abuf>')) && s:diff_window_count() == 1 |   call s:diffoff() | endif
+
+Executing BufEnter Auto commands for "*"
+autocommand call nerdtree#checkForBrowse(expand("<amatch>"))
+
+Executing BufEnter Auto commands for "*"
+autocommand if exists("b:rails_root")|silent doau User BufEnterRails|endif
+
+Executing BufEnter Auto commands for "*"
+autocommand silent! call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Auto commands for "*"
+autocommand silent! autocmd! FileExplorer
+
+autocommand call nerdtree#checkForBrowse(expand("<amatch>"))
+
+Executing VimEnter Auto commands for "*"
+autocommand if expand('<amatch>')==''|call fugitive#detect(getcwd())|endif
+
+Executing User Auto commands for "Fugitive"
+autocommand call s:define_commands()
+
+Executing User Auto commands for "Fugitive"
+autocommand if s:buffer().commit() =~# '^0\=$' | exe "command! -buffer -bar -bang -nargs=1 -complete=customlist,s:MoveComplete Gmove :execute s:Move(<bang>0,<q-args>)" | exe "command! -buffer -bar -bang Gremove :execute s:Remove(<bang>0)" | endif
+
+Executing User Auto commands for "Fugitive"
+autocommand if s:buffer().type('file', 'blob') | exe "command! -buffer -bar -bang -range=0 -nargs=* Gblame :execute s:Blame(<bang>0,<line1>,<line2>,<count>,[<f-args>])" | endif
+
+Executing User Auto commands for "Fugitive"
+autocommand if &filetype =~# '^git\%(commit\)\=$' && &foldtext ==# 'foldtext()' |    set foldtext=fugitive#foldtext() | endif
+
+Executing VimEnter Auto commands for "*"
+autocommand if empty(expand("<amatch>")) && RailsDetect(getcwd()) |   call rails#buffer_setup() |   silent doau User BufEnterRails | endif
+
+chdir(config)
+fchdir() to previous dir
+chdir(config)
+fchdir() to previous dir
+Searching for "autoload/rails.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+Searching for "/Users/shadowjack/.vim/autoload/rails.vim"
+Searching for "/Users/shadowjack/.vim/bundle/command-t/autoload/rails.vim"
+Searching for "/Users/shadowjack/.vim/bundle/nerdtree/autoload/rails.vim"
+Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/autoload/rails.vim"
+Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/autoload/rails.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/autoload/rails.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/autoload/rails.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/autoload/rails.vim"
+Searching for "/Users/shadowjack/.vim/bundle/vim-rails/autoload/rails.vim"
+chdir(/Users/shadowjack/.vim/bundle/vim-rails/autoload)
+fchdir() to previous dir
+line 0: sourcing "/Users/shadowjack/.vim/bundle/vim-rails/autoload/rails.vim"
+finished sourcing /Users/shadowjack/.vim/bundle/vim-rails/autoload/rails.vim
+continuing in VimEnter Auto commands for "*"
+chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+fchdir() to previous dir
+No matching autocommands
+chdir(/Users/shadowjack/Documents/Work/PriceTracker)
+/Users/shadowjack/Documents/Work/PriceTracker
+                                             Calling shell to execute: "(ruby -rrbconfig -e "print RbConfig::CONFIG[\"ruby_version\"]") >/var/folders/h4/h4ttq20x379g0cr9m5l9f9s40000gn/T/vM6Z4k8/0 2>&1"
+                                             chdir(/Users/shadowjack/Documents/Work/PriceTracker)
+/Users/shadowjack/Documents/Work/PriceTracker
+                                       chdir(/Users/shadowjack/Documents/Work/PriceTracker)
+/Users/shadowjack/Documents/Work/PriceTracker
+                                       chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+                                       fchdir() to previous dir
+                                       chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+                                       fchdir() to previous dir
+                                       chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+                                       fchdir() to previous dir
+                                       chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+                                       fchdir() to previous dir
+                                       chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+                                       fchdir() to previous dir
+                                       chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+                                       fchdir() to previous dir
+                                       chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+                                       fchdir() to previous dir
+                                       Searching for "compiler/rails.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+                                       Searching for "/Users/shadowjack/.vim/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/command-t/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/nerdtree/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-rails/compiler/rails.vim"
+                                       chdir(/Users/shadowjack/.vim/bundle/vim-rails/compiler)
+                                       fchdir() to previous dir
+                                       line 73: sourcing "/Users/shadowjack/.vim/bundle/vim-rails/compiler/rails.vim"
+                                       Searching for "compiler/rake.vim" in "/Users/shadowjack/.vim,/Users/shadowjack/.vim/bundle/command-t,/Users/shadowjack/.vim/bundle/nerdtree,/Users/shadowjack/.vim/bundle/railscasts-theme,/Users/shadowjack/.vim/bundle/tlib_vim,/Users/shadowjack/.vim/bundle/vim-addon-mw-utils,/Users/shadowjack/.vim/bundle/vim-bundler,/Users/shadowjack/.vim/bundle/vim-fugitive,/Users/shadowjack/.vim/bundle/vim-rails,/Users/shadowjack/.vim/bundle/vim-ruby,/Users/shadowjack/.vim/bundle/vim-snipmate,/Users/shadowjack/.vim/bundle/vim-snippets,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/shadowjack/.vim/bundle/vim-snipmate/after,/Users/shadowjack/.vim/after"
+                                       Searching for "/Users/shadowjack/.vim/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/command-t/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/nerdtree/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/railscasts-theme/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/tlib_vim/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-addon-mw-utils/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-bundler/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-fugitive/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-rails/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/compiler/rake.vim"
+                                       chdir(/Users/shadowjack/.vim/bundle/vim-ruby/compiler)
+                                       fchdir() to previous dir
+                                       line 21: sourcing "/Users/shadowjack/.vim/bundle/vim-ruby/compiler/rake.vim"
+                                       finished sourcing /Users/shadowjack/.vim/bundle/vim-ruby/compiler/rake.vim
+                                       continuing in /Users/shadowjack/.vim/bundle/vim-rails/compiler/rails.vim
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/compiler/rake.vim"
+                                       Searching for "/usr/share/vim/vimfiles/compiler/rake.vim"
+                                       Searching for "/usr/share/vim/vim73/compiler/rake.vim"
+                                       Searching for "/usr/share/vim/vimfiles/after/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/compiler/rake.vim"
+                                       Searching for "/Users/shadowjack/.vim/after/compiler/rake.vim"
+                                       finished sourcing /Users/shadowjack/.vim/bundle/vim-rails/compiler/rails.vim
+                                       continuing in function rails#buffer_setup
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-ruby/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-snippets/compiler/rails.vim"
+                                       Searching for "/usr/share/vim/vimfiles/compiler/rails.vim"
+                                       Searching for "/usr/share/vim/vim73/compiler/rails.vim"
+                                       Searching for "/usr/share/vim/vimfiles/after/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/bundle/vim-snipmate/after/compiler/rails.vim"
+                                       Searching for "/Users/shadowjack/.vim/after/compiler/rails.vim"
+                                       chdir(^/Users/shadowjack/Documents/Work/PriceTracker)
+                                       fchdir() to previous dir
+                                       Executing User Auto commands for "BufEnterRails"
+                                       autocommand call s:RefreshBuffer()
+
+                                       autocommand call s:resetomnicomplete()
+
+                                       autocommand call s:BufDatabase(-1)
+
+                                       Executing VimEnter Auto commands for "*"
+                                       autocommand call s:abolish_setup()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+Executing BufWinLeave Auto commands for "*"
+autocommand execute getwinvar(+bufwinnr(+expand('<abuf>')), 'fugitive_leave')
+
+Executing BufWinLeave Auto commands for "*"
+autocommand if s:can_diffoff(+expand('<abuf>')) && s:diff_window_count() == 2 |   call s:diffoff_all(getbufvar(+expand('<abuf>'), 'git_dir')) | endif
+
+Writing viminfo file "/Users/shadowjack/.viminfo"

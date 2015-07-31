@@ -123,9 +123,15 @@ $include-html-global-classes: $include-html-classes;
 // $warning-color: #f08a24;
 // $info-color: #a0d3e8;
 
+$primary-color: #665E54;//rgba(80, 81, 79, 100)
+$secondary-color: #f25f5c; //rgba(242, 95, 92, 100)
+$color3: #ffe066; //rgba(255, 224, 102, 100)
+$color4: #247ba0; //rgba(36, 123, 160, 100)
+$color5: #70c1b3; //rgba(112, 193, 179, 100)
+
 // We use these to control various global styles
-// $body-bg: $white;
-// $body-font-color: $jet;
+$body-bg: $primary-color;
+$body-font-color: $secondary-color;
 // $body-font-family: $font-family-sans-serif;
 // $body-font-weight: $font-weight-normal;
 // $body-font-style: normal;
@@ -459,13 +465,13 @@ $include-html-global-classes: $include-html-classes;
 // $button-font-align: center;
 
 // We use these to control various hover effects.
-// $button-function-factor: -20%;
+$button-function-factor: -20%;
 
 // We use these to control button border styles.
 // $button-border-width: 0;
 // $button-border-style: solid;
-// $button-bg-color: $primary-color;
-// $button-bg-hover: scale-color($button-bg-color, $lightness: $button-function-factor);
+$button-bg-color: $secondary-color;
+$button-bg-hover: scale-color($button-bg-color, $lightness: $button-function-factor);
 // $button-border-color: $button-bg-hover;
 // $secondary-button-bg-hover: scale-color($secondary-color, $lightness: $button-function-factor);
 // $secondary-button-border-color: $secondary-button-bg-hover;
@@ -641,20 +647,20 @@ $include-html-global-classes: $include-html-classes;
 // $form-label-font-size: rem-calc(14);
 // $form-label-font-weight: $font-weight-normal;
 // $form-label-line-height: 1.5;
-// $form-label-font-color: scale-color($black, $lightness: 30%);
+$form-label-font-color: #fff;
 // $form-label-small-transform: capitalize;
 // $form-label-bottom-margin: 0;
 // $input-font-family: inherit;
-// $input-font-color: rgba(0,0,0,0.75);
-// $input-font-size: rem-calc(14);
-// $input-bg-color: $white;
-// $input-focus-bg-color: scale-color($white, $lightness: -2%);
-// $input-border-color: scale-color($white, $lightness: -20%);
-// $input-focus-border-color: scale-color($white, $lightness: -40%);
+$input-font-color: rgba(255,255,255,0.95);
+$input-font-size: rem-calc(16);
+$input-bg-color: rgba(0,0,0,0);
+$input-focus-bg-color: rgba(255,255,255,0.1);
+$input-border-color: rgba(255,255,255,1);
+$input-focus-border-color: rgba(255,255,255,1);
 // $input-border-style: solid;
-// $input-border-width: 1px;
+$input-border-width: 2px;
 // $input-border-radius: $global-radius;
-// $input-disabled-bg: $gainsboro;
+$input-disabled-bg: rgba(255,255,255, 0.3);
 // $input-disabled-cursor: $cursor-default-value;
 // $input-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
 // $input-include-glowing-effect: false;

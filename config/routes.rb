@@ -1,5 +1,10 @@
 Rails.application.routes.draw do
 
+  scope :auth do
+    get 'is_signed_in', to: 'auth#is_signed_in?'
+  end
+
+
   devise_for :users
   namespace :api do
     namespace :v1 do
@@ -10,8 +15,6 @@ Rails.application.routes.draw do
   end
 
   root to: 'home#index'
-
-
   get '*path', to: 'home#index'
 
   # root to: 'products#index'
