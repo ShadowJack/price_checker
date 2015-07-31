@@ -32,11 +32,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use thin as an application server
 gem 'thin'
 
-# Gems to run update_price script
-gem 'sequel'
-gem 'logging'
-gem 'mechanize'
-
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
