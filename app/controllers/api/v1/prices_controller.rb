@@ -1,11 +1,20 @@
 class Api::V1::PricesController < ApplicationController
   respond_to :json
   before_action :set_price, only: [:show, :edit, :update, :destroy]
+  before_filter :authenticate_user!
 
-  # GET /prices
-  # GET /prices.json
+  # GET /product/:product_id/prices
+  # GET /product/:product_id/prices.json
   def index
-    @prices = Price.all
+    logger.debug "I'm here" 
+    @product = Product.find(params[:product_id])
+
+    respond_to do |format|
+      format.json { render json: { error: ['No such product'] } } unless @product
+      format.json { render json: { error: ['This user doesn\'t posess this product'] } } unless current_user.products.include? @product
+
+      format.json { render json: @product.prices }
+    end 
   end
 
   # GET /prices/1
@@ -70,6 +79,6 @@ class Api::V1::PricesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def price_params
-      params.require(:price).permit(:price)
+      params.require(:price).permit(:price, :product_id)
     end
 end

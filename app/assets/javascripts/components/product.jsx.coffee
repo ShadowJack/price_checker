@@ -1,12 +1,12 @@
 @Product = React.createClass
   getInitialState: ->
     active: false
+    chart_data:
+      labels: ['one', 'two', 'thee']
+      series: [[1,2,3]]
 
   render: ->
     title = @props.data.description || @props.data.url
-    chart_data =
-      labels: @props.data.prices.dates, #TODO: send prices from backend and display on chart
-      series: @props.data.prices.values
 
     `<dd className="accordion-navigation">
       <a href={ "#panel" + this.props.data.id } onClick={ this._togglePanel }> { title } </a>
@@ -21,7 +21,7 @@
         </div>
         <div className="row">
           <div className="small-12 column">
-            <PriceChart data={ chart_data } />
+            < PriceChart data={ this.state.chart_data } key={"price_chart" + this.props.data.id} /> 
           </div>
         </div>
       </div>
@@ -29,4 +29,13 @@
 
   _togglePanel: (e)->
     e.preventDefault()
-    @setState active: !@state.active
+    $.get '/api/v1/products/' + @props.data.id + '/prices.json', (resp) =>
+      if (resp.hasOwnProperty('error'))
+        console.log resp.error
+      else
+        @setState chart_data:
+          labels: resp.map (curr, idx, arr) ->
+            new Date(curr.updated_at).toLocaleDateString()
+          series: [resp.map (curr, idx, arr) -> curr.price]
+        ,active: !@state.active
+

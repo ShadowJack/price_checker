@@ -35,7 +35,7 @@
     @_loadProducts()
 
   _signOutHandler: (data)->
-    @setState signedIn: false, user: null
+    @setState signedIn: false, user: null, products: []
 
   addProductHandler: (product)->
     products = @state.products

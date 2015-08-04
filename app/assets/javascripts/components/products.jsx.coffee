@@ -8,8 +8,8 @@
     `<div id="products">
       <h2> Товары </h2>
       <dl className="accordion" data-accordion>
-          { this.props.data.map(function (elem){
-            return (< Product data={elem} key={elem.id}/>);
+          { this.props.data.map(function (product){
+            return (< Product data={product} key={product.id}/>);
           }) }
       </dl>
     </div>`
