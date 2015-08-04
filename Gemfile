@@ -19,7 +19,7 @@ gem 'foundation-rails'
 gem "slim-rails"
 gem 'simple_form'
 gem 'devise'
-
+gem 'active_model_serializers'
 gem 'react-rails'
 
 # Use jquery as the JavaScript library
